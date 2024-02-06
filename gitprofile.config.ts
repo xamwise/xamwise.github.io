@@ -111,6 +111,9 @@ const CONFIG = {
       to: '2019',
     },
   ],
+  publications: [
+    
+  ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
    
