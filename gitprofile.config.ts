@@ -42,7 +42,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'max-schuran-963564200',
+    linkedin: 'max-schuran',
     twitter: '',
     mastodon: '',
     facebook: '',
