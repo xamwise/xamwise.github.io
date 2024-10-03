@@ -88,6 +88,20 @@ const CONFIG = {
       to: 'September 2023',
       companyLink: 'https://www.siemens.com',
     },
+    {
+      company: 'Melbourne Space Program',
+      position: 'Not-for-profit work',
+      from: 'March 2024',
+      to: 'ongoing',
+      companyLink: 'https://www.melbournespace.com.au',
+    },
+    {
+      company: 'The University of Melbourne',
+      position: 'Research Fellow',
+      from: 'October 2024',
+      to: 'ongoing',
+      companyLink: 'https://mspgh.unimelb.edu.au',
+    },
   ],
   certifications: [
   ],
